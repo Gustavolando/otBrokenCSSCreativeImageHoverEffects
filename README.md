@@ -8,12 +8,10 @@ This is pure HTML and CSS ONLY!!
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/otBrokenCSSCreativeImageHoverEffects/) !
 
-![Broken | CSS Creative Image Hover Effects](https://gustavolando.github.io/otBrokenCSSCreativeImageHoverEffects/CSS%20Text%20Animation%20Effects%201.png)
-
 ![Broken | CSS Creative Image Hover Effects](https://gustavolando.github.io/otBrokenCSSCreativeImageHoverEffects/Broken%20CSS%20Creative%20Image%20Hover%20Effects%201.png)
 
-![Broken | CSS Creative Image Hover Effects](https://gustavolando.github.io/otBrokenCSSCreativeImageHoverEffects/Broken%20CSS%20Creative%20Image%20Hover%20Effects%202.png)
-
 ![Broken | CSS Creative Image Hover Effects](https://gustavolando.github.io/otBrokenCSSCreativeImageHoverEffects/Broken%20CSS%20Creative%20Image%20Hover%20Effects%203.png)
+
+![Broken | CSS Creative Image Hover Effects](https://gustavolando.github.io/otBrokenCSSCreativeImageHoverEffects/Broken%20CSS%20Creative%20Image%20Hover%20Effects%202.png)
 
 Here is the animation demo link:  https://gustavolando.github.io/otBrokenCSSCreativeImageHoverEffects/
